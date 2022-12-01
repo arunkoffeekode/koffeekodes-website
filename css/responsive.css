@@ -1,0 +1,164 @@
+@charset "utf-8"; /* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (min-width: 1200px) {  
+	
+
+}
+@media only screen and (min-width: 993px) {
+	
+}
+@media only screen and (min-width: 992px) {
+
+	
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+	.main-title-black h2{font-size:25px;}
+	.main-title-black-1 h2{font-size:25px;}
+	.main-title-black:after{width: 120px;}
+	.main-title-black h2 span{font-size: 20px;}
+	.counter .circle-wrap {margin:0 auto;margin-bottom: 95px;float: none;}
+	.counter {padding: 50px 0px 0px 0px;}
+	.contact-project{padding: 19px 0px 30px 0px;}
+	.contact-project .start-contact .map-section{display: none;}
+	.contact-project .start-contact .form-group .sr-btn{width: 100%;}
+	.higher-plan .higher-plan-title h1{font-size: 34px;line-height: 50px;}
+	.higher-plan .higher-plan-title{margin-bottom: 77px;}
+	.higher-plan{padding: 60px 0px 30px 0px;}
+	/* .higher-plan .project-section .image-section{width: 100%;} */
+	/* .higher-plan .project-section .project-details{width: 100%;} */
+	/* .higher-plan .project-section{display: block;} */
+	/* .higher-plan .project-section .project-details p{padding-left: 19px;} */
+	/* .higher-plan .project-section .project-details p:after{top:5px} */
+	/* .higher-plan .project-section .project-details{padding: 20px;} */
+	.higher-plan .home-page-second-section .project-section{display: block;}
+	.higher-plan .home-page-second-section .project-section .project-details p{padding-left: 19px;}
+	.higher-plan .home-page-second-section .project-section .project-details p:after{top:5px}
+	.higher-plan .home-page-second-section .project-section .project-details{padding: 20px;}
+	.higher-plan .home-page-second-section .project-section .image-section{width: 100%;}
+	.higher-plan .home-page-second-section .project-section .project-details{width: 100%;}
+	.home-page-second-section .owl-theme .owl-nav .owl-prev, .home-page-second-section .owl-theme .owl-nav .owl-next{width: 41px;text-align: center;height: 41px;line-height: 41px;}
+	.home-page-second-section .owl-theme .owl-nav .owl-prev{right: 17%;top: -8%;}
+	.home-page-second-section .owl-theme .owl-nav .owl-next {top: -8%;right: 0px;}
+	.contact .form h5 {font-size: 22px;}
+	.contact .contact-from {padding: 25px 25px 25px 25px;}
+	.client-testimonials .box {width: 100%;margin-left: 0px;}
+	.project-counter .circle-wrap {margin-bottom: 75px;}
+	.project-details-section .details {margin-top: 0px;}
+	.feedback {border-radius: 0px;}
+	.feedback .feedback-img {width: 100%;height: auto;margin-bottom: 30px;}
+	.techonology .owl-theme .owl-nav .owl-prev, .techonology .owl-theme .owl-nav .owl-next{width: 35px;height: 35px;line-height: 35px;}
+	.process .steps {width: 100%;margin-left: 0px;border-radius: 20px!important;}
+	.process .steps .step-details {padding: 30px;}
+	.process .img-section {padding: 15px;margin-bottom: 30px!important;}
+	.process .steps1 {width: 100%;margin-right: 0px;border-radius: 20px!important;}
+	.process .steps1 .step-details1 {padding: 30px;}
+	.process .steps{background: #886162!important;margin: 10px;}
+	.process .steps1{background: #886162!important;margin: 10px;}
+	.process .steps .step-details h2 {margin-bottom: 15px;font-size: 22px;}
+	.process .steps1 .step-details1 h2 {margin-bottom: 15px;font-size: 22px;}
+	.project-details-top-section .project-box {width: 100%;border-radius: 0px;}
+	.project-details-top-section .project-box .pc {width: 100%;padding:45px;float: left;}
+	.project-details-top-section .project-box .development {margin-left: -15px;bottom: -311px;border-bottom-left-radius: 20px;border-bottom-right-radius: 20px;border-top-left-radius: 0px;border-top-right-radius: 0px;padding: 40px 25px 25px 24px;}
+	.project-details-section {padding: 346px 0px 30px 0px;}
+	.project-details-top-section .project-box .logo {border-radius: 10px;width: 230px;margin: 0 auto;height: 87px;margin-top: -60px;}
+.desktop{display: none;}
+.mobile{display: block;width: 55px;height: 24px;}
+.mobile img{border-radius: 13px;}
+.navbar-default {background: #193451;}
+.navbar-default .social {margin-right: 15px;}
+.navbar-nav{background: linear-gradient(359.68deg, rgba(111, 79, 80, 0.97) 0.25%, #193451 120.98%);padding: 15px;color: #ffffff;}
+.navbar-default .social {margin-bottom: 45px;}
+.navbar-nav{margin-bottom: 0px;margin-top: 20px;}
+.navbar-default.navbar-trans .nav-link{color: #ffffff;text-align: center;}
+.navbar-default .social ul li i {color: #193451;}
+ /* .navbar-nav .nav-item .active{background: linear-gradient(270.74deg, #FFFFFF 39.77%, rgba(255, 255, 255, 0.16) 96.73%);padding: 7px 35px;margin-top: -7px;color: #000000;text-align: center;}
+ .navbar-nav .active .nav-link{color: #000000;}
+ .navbar-default.navbar-trans .nav-item{padding-right: 0px;text-align: center;} */
+ .slider-section{height: auto;}
+ .slider-section .company-details{width: 100%;padding: 31px 15px 0px 15px;}
+ .slider-section .company-details h1 {font-size: 35px;}
+ .slider-section .company-details h1 span {font-size: 50px;}
+ .slider-section .img-slider-section {height: 300px;padding: 20px;}
+ .navbar-default .social{display: none;}
+ .navbar-brand {padding-top: 0px;padding-bottom: 3.3125rem;}
+ .navbar>.container{display: block;}
+ #scroll{width: 40px;height: 40px;right: 4%;bottom: 5%;z-index: 1;}
+ .fixed-top{display: none;}
+ /* .navbar-default.navbar-trans .nav-item:last-child {padding-right: 40px;} */
+ .higher-plan .higher-plan-solution {margin: 0px 15px 60px 15px;}
+ .slider-section .img-slider-section img{width: 300px;}
+ #slider li.slide {margin-top: 40px!important;text-align:left!important;}
+}
+
+/*============	Media 768Px Start ============ */
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+	.navbar-toggler {top:44px}
+  }
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+	
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width:768px) {
+
+	.project-details-top-section .project-box .development {bottom: -190px;border-radius: 20px;}
+	.project-details-section {padding: 200px 0px 30px 0px;}
+}
+
+/*---------- MEDIA 480px ----------*/
+@media  (max-width: 768px) {
+	
+
+}
+@media  (max-width: 480px) {
+	
+}
+@media (min-width: 991px) {
+  
+}
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+
+
+
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+	.higher-plan .higher-plan-title h1{font-size: 28px;line-height: 50px;}
+	
+}
+
+@media only screen and (max-width: 991.98px) {
+	
+
+	
+}
+
+@media only screen and (max-width: 767.98px) {
+	
+
+}
+@media (min-width: 576px){
+	
+	
+}
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+	
+	}
